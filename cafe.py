@@ -81,7 +81,7 @@ cafe_information = [
     'image': 'https://i0.wp.com/thefoodbunny.com/wp-content/uploads/2018/06/20180622_084140.jpg?resize=780%2C439&ssl=1',
     'detail': [
       {
-        'image': 'https://i0.wp.com/thefoodbunny.com/wp-content/uploads/2018/06/20180622_084140.jpg?resize=780%2C439&ssl=1',
+        'images': 'https://i0.wp.com/thefoodbunny.com/wp-content/uploads/2018/06/20180622_084140.jpg?resize=780%2C439&ssl=1',
         'description': '''
         Footprint Café - The popular, non-profit Footprint Café located on vibrant 
         26th Street supports educational projects and community initiatives in Siem Reap. 
@@ -96,22 +96,77 @@ cafe_information = [
   {
     'id': 600,
     'name': 'Romcheik 5 Artspace & Café',
-    'image': 'https://th.bing.com/th/id/OIP.CGOUZRratm6msAK-o9cyywHaFD?rs=1&pid=ImgDetMain'
+    'image': 'https://th.bing.com/th/id/OIP.CGOUZRratm6msAK-o9cyywHaFD?rs=1&pid=ImgDetMain',
+    'detail': [
+      {
+        'images': 'https://th.bing.com/th/id/OIP.CGOUZRratm6msAK-o9cyywHaFD?rs=1&pid=ImgDetMain',
+        'description': '''
+        Romcheik 5 Artspace & Café - Rumchic 5 Art Café & Gallery is a contemporary art 
+        gallery and beautiful café nominated as Top Ten Art Space in Asia and #1 in Cambodia. 
+        Established by four young Cambodian artists in 2012 with the help of a benefactor, 
+        in 2018 it became a veritable museum with a permanent collection of their best artwork. 
+        Its café is characterized by beautiful quiet sessions decorated with plants.
+        Place address: Street 201A, Krong Battambang, Cambodia
+        ''',
+      }
+    ]
   },
   {
     'id': 700,
     'name': 'Pages Café',
-    'image': 'https://res.cloudinary.com/tf-lab/image/upload/w_600,h_337,c_fill,g_auto:subject,q_auto,f_auto/restaurant/3f3c76ef-8872-47b1-b336-fd90ddc8ad22/b70325f7-85ad-4f48-b2b3-9204f4b1c43f.jpg'
+    'image': 'https://res.cloudinary.com/tf-lab/image/upload/w_600,h_337,c_fill,g_auto:subject,q_auto,f_auto/restaurant/3f3c76ef-8872-47b1-b336-fd90ddc8ad22/b70325f7-85ad-4f48-b2b3-9204f4b1c43f.jpg',
+    'detail': [
+      {
+        'images': 'https://res.cloudinary.com/tf-lab/image/upload/w_600,h_337,c_fill,g_auto:subject,q_auto,f_auto/restaurant/3f3c76ef-8872-47b1-b336-fd90ddc8ad22/b70325f7-85ad-4f48-b2b3-9204f4b1c43f.jpg',
+        'description': '''
+        Pages Café - Baggies Café is located in Siem Reap and is famous for 
+        serving Western and Asian cuisine. It also provides a calm atmosphere 
+        ideal for sipping delicious coffee and fresh drinks. You can enjoy the scenery 
+        provided by its wide doors and open wooden windows, all while enjoying the taste 
+        and aroma of fresh coffee before heading to The ancient temples of Angkor, and its
+        menu offers international dishes that rely a lot on fresh seasonal products, 
+        as well as local dishes.
+        Place address: Street 24, Wat Bo Rd, Krong Siem Reap 17254, Cambodia
+        ''',
+      }
+    ]
   },
   {
     'id': 800,
     'name': 'Pou Restaurant and Bar',
-    'image': 'https://th.bing.com/th/id/OIP.JCuArF4rNs3kKISIyg2fWgHaE8?rs=1&pid=ImgDetMain'
+    'image': 'https://th.bing.com/th/id/OIP.JCuArF4rNs3kKISIyg2fWgHaE8?rs=1&pid=ImgDetMain',
+    'detail': [
+      {
+        'images': 'https://th.bing.com/th/id/OIP.JCuArF4rNs3kKISIyg2fWgHaE8?rs=1&pid=ImgDetMain',
+        'description': '''
+        Pou Restaurant and Bar - Boasting an elegant interior decorated with many plants, 
+        Bo Restaurant is known for its innovative dishes that are prepared using high-quality 
+        produce and fresh herbs and vegetables. It offers a menu that includes a range of local 
+        dishes and street food such as dumplings, chicken curry, beef lok lak and chicken skewers,
+        as well as some Desserts like coconut candy.
+        Place address: Wat Damnak Road, Krong Siem Reap, Cambodia
+        ''',
+      }
+    ]
   },
   {
     'id': 900,
     'name': 'Enocafe Coffee and Italian Restaurant',
-    'image': 'https://th.bing.com/th/id/R.8f5c9a9f4c8ecd99ab8e2f33daff51ad?rik=9Xo6DZ7filQFtQ&pid=ImgRaw&r=0'
+    'image': 'https://th.bing.com/th/id/R.8f5c9a9f4c8ecd99ab8e2f33daff51ad?rik=9Xo6DZ7filQFtQ&pid=ImgRaw&r=0',
+    'detail': [
+      {
+        'images': 'https://th.bing.com/th/id/R.8f5c9a9f4c8ecd99ab8e2f33daff51ad?rik=9Xo6DZ7filQFtQ&pid=ImgRaw&r=0',
+        'description': '''
+        Enocafe Coffee and Italian Restaurant - The Italian restaurant and café, Enocafe, 
+        is famous for serving the best homemade pasta in Sihanoukville. Its menu also contains 
+        a mixture of delicious Italian food such as pizza of all kinds, sandwiches such as panini, 
+        and a range of appetizers such as bruschetta, in addition to delicious desserts such as 
+        homemade cakes, croissants and ice cream, and twenty different types. of coffee.
+        Place address: Koh toch village Koh toch village, Koh Rong commune, Koh Rong Island, 
+        Preah Sihanouk, Cambodia
+        ''',
+      }
+    ]
   }
 ]
 
