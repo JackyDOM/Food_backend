@@ -5,6 +5,7 @@ hotel_information = [
   {
     'id': 200,
     'name': 'Raffles Hotel Le Royal - Phnom Penh',
+    'type': 'hotel',
     'image': 'https://www.rafflesphnompenh.com/wp-content/uploads/sites/232/2021/06/Raffles-Hotel-Le-Royal-Morning-Facade-Shot-2021-2100x1100.jpg',
     'detail': [
       {
@@ -32,6 +33,7 @@ hotel_information = [
   {
     'id': 201,
     'name': 'Sofitel Angkor Phokeethra Golf & Spa Resort - Siem Reap',
+    'type': 'hotel',
     'image': 'https://pix3.agoda.net/hotelimages/3685/-1/a694e08e21d178d19d9c369e9c142a15.jpg',
     'detail': [
       {
@@ -56,6 +58,7 @@ hotel_information = [
   {
     'id': 202,
     'name': 'Amansara - Siem Reap',
+    'type': 'hotel',
     'image': 'https://th.bing.com/th/id/OIP.wxM7F8v2_SupE65dq9Z-3gHaEw?rs=1&pid=ImgDetMain',
     'detail': [
       {
@@ -77,6 +80,7 @@ hotel_information = [
   {
     'id': 203,
     'name': 'Belmond La Résidence dAngkor - Siem Reap',
+    'type': 'hotel',
     'image': 'https://secure.s.forbestravelguide.com/img/properties/belmond-la-residence-dangkor/extra-large/belmond-la-residence-dangkor-restaurant.jpg',
     'detail': [
       {
@@ -106,6 +110,7 @@ hotel_information = [
   {
     'id': 204,
     'name': 'Park Hyatt Siem Reap - Siem Reap',
+    'type': 'hotel',
     'image': 'https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2016/12/21/1432/Park-Hyatt-Siem-Reap-P024-Exterior-Shot.jpg/Park-Hyatt-Siem-Reap-P024-Exterior-Shot.16x9.adapt.1920.1080.jpg',
     'detail': [
       {
@@ -132,6 +137,7 @@ hotel_information = [
   {
     'id': 205,
     'name': 'Sokha Beach Resort - Sihanoukville',
+    'type': 'hotel',
     'image': 'https://cf.bstatic.com/images/hotel/max1024x768/960/96085585.jpg',
     'detail': [
       {
@@ -167,6 +173,7 @@ hotel_information = [
   {
     'id': 206,
     'name': 'Independence Hotel Resort & Spa - Sihanoukville',
+    'type': 'hotel',
     'image': 'https://pix10.agoda.net/hotelImages/894/89449/89449_16091623000046562684.jpg?ca=6&ce=1&s=1024x768',
     'detail': [
       {
@@ -192,6 +199,7 @@ hotel_information = [
   {
     'id': 207,
     'name': 'Shinta Mani Shack - Siem Reap',
+    'type': 'hotel',
     'image': 'https://s-ec.bstatic.com/images/hotel/max1024x768/107/107274458.jpg',
     'detail': [
       {
@@ -219,6 +227,7 @@ hotel_information = [
   {
     'id': 208,
     'name': 'Anantara Angkor Resort - Siem Reap',
+    'type': 'hotel',
     'image': 'https://secure.s.forbestravelguide.com/img/properties/anantara-angkor-resort/extra-large/anantara-angkor-resort-pool-wide.jpg',
     'detail': [
       {
@@ -244,6 +253,7 @@ hotel_information = [
   {
     'id': 209,
     'name': 'Rosewood Phnom Penh - Phnom Penh',
+    'type': 'hotel',
     'images': 'https://th.bing.com/th/id/R.e868987f88765c0394c5e90e6a356fca?rik=mZNCEl3PIphjkw&pid=ImgRaw&r=0',
     'detail': [
       {

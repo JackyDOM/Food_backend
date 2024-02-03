@@ -5,6 +5,7 @@ cafe_information = [
   {
     'id': 100,
     'name': 'Crane Café',
+    'type': 'cafe',
     'image': 'https://b.zmtcdn.com/data/reviews_photos/00b/626b1c51074f50aa643551774a3ed00b.jpg',
     'detail': [
       {
@@ -22,6 +23,7 @@ cafe_information = [
   {
     'id': 200,
     'name': 'Vintage Bar',
+    'type': 'cafe',
     'image': 'https://th.bing.com/th/id/OIP.WjVvUDNUYvvlrbsoR0lVygHaE1?rs=1&pid=ImgDetMain',
     'detail': [
       {
@@ -40,6 +42,7 @@ cafe_information = [
   {
     'id': 300,
     'name': 'Fresh Fruit Factory',
+    'type': 'cafe',
     'image': 'https://th.bing.com/th/id/R.817a74f80ebf0eb1f5c443337ac6d72e?rik=oS8GbPHRQS9L0g&riu=http%3a%2f%2fcdn.4travel.jp%2fimg%2ftcs%2ft%2ftips%2fpict%2fsrc%2f148%2f246%2fsrc_14824627.jpg&ehk=PItAHRIRwiBtLFfyHpGZZ%2baHXrTbZN0mDVWIJfCF%2fos%3d&risl=&pid=ImgRaw&r=0',
     'detail': [
       {
@@ -59,6 +62,7 @@ cafe_information = [
   {
     'id': 400,
     'name': 'Little Casablanca Café & Bar',
+    'type': 'cafe',
     'image': 'https://www.moroccoclassictours.com/wp-content/uploads/2020/03/Rick%E2%80%99s-Cafe-in-Casablanca-2.jpg',
     'detail': [
       {
@@ -78,6 +82,7 @@ cafe_information = [
   {
     'id': 500,
     'name': 'Footprint Café',
+    'type': 'cafe',
     'image': 'https://i0.wp.com/thefoodbunny.com/wp-content/uploads/2018/06/20180622_084140.jpg?resize=780%2C439&ssl=1',
     'detail': [
       {
@@ -96,6 +101,7 @@ cafe_information = [
   {
     'id': 600,
     'name': 'Romcheik 5 Artspace & Café',
+    'type': 'cafe',
     'image': 'https://th.bing.com/th/id/OIP.CGOUZRratm6msAK-o9cyywHaFD?rs=1&pid=ImgDetMain',
     'detail': [
       {
@@ -114,6 +120,7 @@ cafe_information = [
   {
     'id': 700,
     'name': 'Pages Café',
+    'type': 'cafe',
     'image': 'https://res.cloudinary.com/tf-lab/image/upload/w_600,h_337,c_fill,g_auto:subject,q_auto,f_auto/restaurant/3f3c76ef-8872-47b1-b336-fd90ddc8ad22/b70325f7-85ad-4f48-b2b3-9204f4b1c43f.jpg',
     'detail': [
       {
@@ -134,6 +141,7 @@ cafe_information = [
   {
     'id': 800,
     'name': 'Pou Restaurant and Bar',
+    'type': 'cafe',
     'image': 'https://th.bing.com/th/id/OIP.JCuArF4rNs3kKISIyg2fWgHaE8?rs=1&pid=ImgDetMain',
     'detail': [
       {
@@ -152,6 +160,7 @@ cafe_information = [
   {
     'id': 900,
     'name': 'Enocafe Coffee and Italian Restaurant',
+    'type': 'cafe',
     'image': 'https://th.bing.com/th/id/R.8f5c9a9f4c8ecd99ab8e2f33daff51ad?rik=9Xo6DZ7filQFtQ&pid=ImgRaw&r=0',
     'detail': [
       {

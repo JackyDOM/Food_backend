@@ -4,6 +4,7 @@ food_provinces = [
     {
         'id': 1,
         'name': 'ខេត្ត មណ្ខលគីរី',
+        'type': 'foodProvince',
         'image': 'https://th.bing.com/th/id/R.bf1b728468beeb327831ec95c6413ecc?rik=jmRj7XgjSEv8Bw&pid=ImgRaw&r=0',
         'detail': [
             {
@@ -64,6 +65,7 @@ food_provinces = [
     {
         'id': 2,
         'name': 'ខេត្ត​តាកែវ',
+        'type': 'foodProvince',
         'image': 'https://th.bing.com/th/id/OIP.D8t9RuoiQSb8_fBNLf4DegHaE9?rs=1&pid=ImgDetMain',
         'detail': [
             {
@@ -155,6 +157,7 @@ food_provinces = [
     {
         'id': 3,
         'name': 'ខេត្ត កណ្តាល',
+        'type': 'foodProvince',
         'image': 'https://th.bing.com/th/id/R.50be05010cd5bda403018a15846f0314?rik=lfYtBGFACzTe5A&riu=http%3a%2f%2fwww.soprita.com%2fwp-content%2fuploads%2f2021%2f04%2f1680-840-Kandal-01.png&ehk=RkhYJh9QKUhNCKlocTUwKHbGSFAhD0VJ7ZUur1lz%2f14%3d&risl=&pid=ImgRaw&r=0',
         'detail': [
             {
@@ -246,6 +249,7 @@ food_provinces = [
     {
         'id': 4,
         'name': 'ខេត្ត កំពត',
+        'type': 'foodProvince',
         'image': 'https://th.bing.com/th/id/OIP.yfA7tJ8J1UfjV_gvI4uWjAHaFj?rs=1&pid=ImgDetMain',
         'detail': [
             {
@@ -337,6 +341,7 @@ food_provinces = [
     {
         'id': 5,
         'name': 'ខេត្ត សៀមរាប',
+        'type': 'foodProvince',
         'image': 'https://th.bing.com/th/id/OIP.OcvIfYmnX_tVMrqAaMSYjwHaE_?rs=1&pid=ImgDetMain',
         'detail': [
             {
@@ -450,6 +455,7 @@ food_provinces = [
     {
         'id': 6,
         'name': 'ខេត្ត ស្វាយរៀង',
+        'type': 'foodProvince',
         'image': 'https://www.aboutcambodiatravel.com/uploads/images/content_image/Svay%20Rieng/Svay%20Rieng-ACT%20Cambodia%20Tours.jpg',
         'detail': [
             {
@@ -548,6 +554,7 @@ food_provinces = [
     {
         'id': 7,
         'name': 'ខេត្ត ព្រៃវែង',
+        'type': 'foodProvince',
         'image': 'https://th.bing.com/th/id/R.8dc11aaa362bb45cdb179db6e6b96c69?rik=IeSVOfBSsVNi2A&riu=http%3a%2f%2fcambodia.thajsko.com%2fwp-content%2fuploads%2fPrey-Veng-01.jpg&ehk=0OkoZNssftcBhyuW2hvC3%2bOGOsqrIjDKpyMRKIWjdcA%3d&risl=&pid=ImgRaw&r=0',
         'detail': [
             {
@@ -639,6 +646,7 @@ food_provinces = [
     {
         'id': 8,
         'name': 'ខេត្ត ក្រចេះ',
+        'type': 'foodProvince',
         'image': 'https://www.travel4history.com/wp-content/uploads/2020/01/Kratie-travel-guide-kampi.jpg',
         'detail': [
             {
@@ -713,6 +721,7 @@ food_provinces = [
     {
         'id': 9,
         'name': 'ខេត្ត កំពង់ស្ពឺ',
+        'type': 'foodProvince',
         'image': 'https://i.ytimg.com/vi/1KopaSG9v_g/maxresdefault.jpg',
         'detail': [
             {
@@ -815,6 +824,7 @@ food_provinces = [
     {
         'id': 10,
         'name': 'ខេត្ត កំពងចាម',
+        'type': 'foodProvince',
         'image': 'https://thumbs.dreamstime.com/b/preah-soramrit-kosamak-kirirom-national-park-mountain-oamrei-phong-village-commune-phnom-sruoch-district-kilometers-118549110.jpg',
         'detail': [
             {
