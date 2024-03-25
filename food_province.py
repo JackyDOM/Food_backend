@@ -3,9 +3,9 @@ from flask import jsonify
 food_provinces = [
     {
         'id': 1,
-        'name': 'ខេត្ត មណ្ខលគីរី',
+        'name': 'Cerave Brand',
         'type': 'foodProvince',
-        'image': 'https://th.bing.com/th/id/R.bf1b728468beeb327831ec95c6413ecc?rik=jmRj7XgjSEv8Bw&pid=ImgRaw&r=0',
+        'image': 'https://www.beautyflash.co.uk/media/wysiwyg/Cerave/cerave-smoothing-new-range-mobile-1.jpg',
         'detail': [
             {
                 'namey': 'ម្ហូប ស៊ុបគោ',
@@ -64,9 +64,9 @@ food_provinces = [
     },
     {
         'id': 2,
-        'name': 'ខេត្ត​តាកែវ',
+        'name': 'The Ordinary Product',
         'type': 'foodProvince',
-        'image': 'https://th.bing.com/th/id/OIP.D8t9RuoiQSb8_fBNLf4DegHaE9?rs=1&pid=ImgDetMain',
+        'image': 'https://th.bing.com/th/id/OIP.3zEnhFFbSQDUW0Yto6EGegHaJo?rs=1&pid=ImgDetMain',
         'detail': [
             {
                 'namey': 'ម្ហូប បង្កងអាំង',
@@ -156,9 +156,9 @@ food_provinces = [
     },
     {
         'id': 3,
-        'name': 'ខេត្ត កណ្តាល',
+        'name': 'La Roche-Posay',
         'type': 'foodProvince',
-        'image': 'https://th.bing.com/th/id/R.50be05010cd5bda403018a15846f0314?rik=lfYtBGFACzTe5A&riu=http%3a%2f%2fwww.soprita.com%2fwp-content%2fuploads%2f2021%2f04%2f1680-840-Kandal-01.png&ehk=RkhYJh9QKUhNCKlocTUwKHbGSFAhD0VJ7ZUur1lz%2f14%3d&risl=&pid=ImgRaw&r=0',
+        'image': 'https://i5.walmartimages.com/asr/823521c3-ba63-4384-b8b1-a999cfc27d7d.8c8e21e7582ca81c80587714e1ae11e0.jpeg',
         'detail': [
             {
                 'namey': 'ម្ហូប កណ្តុរអាំង',
@@ -248,9 +248,9 @@ food_provinces = [
     },
     {
         'id': 4,
-        'name': 'ខេត្ត កំពត',
+        'name': 'Neutrogena',
         'type': 'foodProvince',
-        'image': 'https://th.bing.com/th/id/OIP.yfA7tJ8J1UfjV_gvI4uWjAHaFj?rs=1&pid=ImgDetMain',
+        'image': 'https://th.bing.com/th/id/OIP.LkP76ZDKcIqI9V4UVEtFLwHaHa?rs=1&pid=ImgDetMain',
         'detail': [
             {
                 'namey': 'ម្ហូប មឹកអាំង',
@@ -340,9 +340,9 @@ food_provinces = [
     },
     {
         'id': 5,
-        'name': 'ខេត្ត សៀមរាប',
+        'name': 'Drunk Elephant',
         'type': 'foodProvince',
-        'image': 'https://th.bing.com/th/id/OIP.OcvIfYmnX_tVMrqAaMSYjwHaE_?rs=1&pid=ImgDetMain',
+        'image': 'https://th.bing.com/th/id/R.03d7c1b6f4d69eda65defd73292e5f5a?rik=UO%2b79PUwH7KKsQ&pid=ImgRaw&r=0',
         'detail': [
             {
                 'namey': 'ម្ហូប អាម៉ុក',
@@ -454,9 +454,9 @@ food_provinces = [
     },
     {
         'id': 6,
-        'name': 'ខេត្ត ស្វាយរៀង',
+        'name': 'Glossier',
         'type': 'foodProvince',
-        'image': 'https://www.aboutcambodiatravel.com/uploads/images/content_image/Svay%20Rieng/Svay%20Rieng-ACT%20Cambodia%20Tours.jpg',
+        'image': 'https://th.bing.com/th/id/OIP.0SQycKIymQ-RKXb1Whs4IAHaJ4?rs=1&pid=ImgDetMain',
         'detail': [
             {
                 'namey': 'ម្ហូប បុកល្ហុងគ្រឿងសមុទ្រ',
@@ -553,9 +553,9 @@ food_provinces = [
     },
     {
         'id': 7,
-        'name': 'ខេត្ត ព្រៃវែង',
+        'name': 'Olay',
         'type': 'foodProvince',
-        'image': 'https://th.bing.com/th/id/R.8dc11aaa362bb45cdb179db6e6b96c69?rik=IeSVOfBSsVNi2A&riu=http%3a%2f%2fcambodia.thajsko.com%2fwp-content%2fuploads%2fPrey-Veng-01.jpg&ehk=0OkoZNssftcBhyuW2hvC3%2bOGOsqrIjDKpyMRKIWjdcA%3d&risl=&pid=ImgRaw&r=0',
+        'image': 'https://i5.walmartimages.com/asr/4ace838a-0d84-4200-ad72-17ae1a5bf6cc_1.778cfb80daa4ff6a50271ecebcfff6f1.jpeg',
         'detail': [
             {
                 'namey': 'ម្ហូប គោដុត',
@@ -645,9 +645,9 @@ food_provinces = [
     },
     {
         'id': 8,
-        'name': 'ខេត្ត ក្រចេះ',
+        'name': 'LOréal Paris',
         'type': 'foodProvince',
-        'image': 'https://www.travel4history.com/wp-content/uploads/2020/01/Kratie-travel-guide-kampi.jpg',
+        'image': 'https://i5.walmartimages.com/asr/e58967ed-954a-448c-804d-ac6f8a01f5e8.421735e6e3cdddd9111808ca9a32f78b.jpeg',
         'detail': [
             {
                 'namey': 'ម្ហូប ទាដុត',
@@ -720,9 +720,9 @@ food_provinces = [
     },
     {
         'id': 9,
-        'name': 'ខេត្ត កំពង់ស្ពឺ',
+        'name': 'Paulas Choice',
         'type': 'foodProvince',
-        'image': 'https://i.ytimg.com/vi/1KopaSG9v_g/maxresdefault.jpg',
+        'image': 'https://www.styledotty.com/images/thumbnails/1960/1960/detailed/10/paulas_choice_travel.jpg',
         'detail': [
             {
                 'namey': 'ម្ហូប ញាំស្ពៅ',
@@ -823,9 +823,9 @@ food_provinces = [
     },
     {
         'id': 10,
-        'name': 'ខេត្ត កំពងចាម',
+        'name': 'Aveeno',
         'type': 'foodProvince',
-        'image': 'https://thumbs.dreamstime.com/b/preah-soramrit-kosamak-kirirom-national-park-mountain-oamrei-phong-village-commune-phnom-sruoch-district-kilometers-118549110.jpg',
+        'image': 'https://th.bing.com/th/id/OIP.98pxnSnE_1-wCGNg4KpppgHaHa?rs=1&pid=ImgDetMain',
         'detail': [
             {
                 'namey': 'ម្ហូប បុកមី',
